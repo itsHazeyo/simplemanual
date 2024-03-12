@@ -1,4 +1,4 @@
-# Simple Manual Transmission Script for FiveM
+# Simple Manual Transmission Script for FiveM[Standalone]
 
 ## Overview
 
